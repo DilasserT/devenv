@@ -23,6 +23,7 @@ end
 
 " git diff integration
 Plug 'airblade/vim-gitgutter'
+Plug 'tpope/vim-fugitive'
 
 " linting/autocomplete
 " need vim 8
